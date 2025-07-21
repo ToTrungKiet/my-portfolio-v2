@@ -14,7 +14,7 @@ export const Footer = () => {
         </div>
       </div>
       
-      <a href="#hero" className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
+      <a href="#hero" className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors hidden md:block">
         <ArrowUp />
       </a>
     </footer>
